@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Gecer</h1>
 <h3 align="center">Full Stack Tester From Turkey</h3>
 
-<img align=“”right alt=“Coding” width=“400” src=“[https://i.imgur.com/50NA7vr.gif](https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?width=640&format=mp4&s=4f5db225fcb9d8f63a6adf037b35064dba12aea1)”>
+<img align=“right alt"=“Coding” width=“400” src=“https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952xgu7gja26n3ft6cbh1w10p419oafqk4har23t136&ep=v1_gifs_search&rid=giphy.gif&ct=g”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smhgcr&label=Profile%20views&color=0e75b6&style=flat" alt="smhgcr" /> </p>
 
